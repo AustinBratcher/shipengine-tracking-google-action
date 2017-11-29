@@ -1,0 +1,15 @@
+{
+  "name": "shipengine-tracker",
+  "description": "Track your package with ShipEngine!",
+  "version": "0.0.1",
+  "author": "Austin Bratcher",
+  "engines": {
+    "node": "~6.11.5"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.0.0",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.5.7",
+    "shipengine": "^0.1.3"
+  }
+}
